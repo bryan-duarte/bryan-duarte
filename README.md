@@ -117,11 +117,9 @@ A production-grade news clustering and analysis system for Chile using embedding
 
 I'm always interested in discussing AI engineering, agent architectures, RAG systems, or collaborating on innovative projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat&logo=gmail)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Website-Panóptico%20AI-success?style=flat&logo=chrome)](https://panopticoai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bryan-duarte)
 
-> 💼 **Open to**: Senior AI/LLM Engineer roles, RAG Architect positions, AI Consultant opportunities
+> 💼 **Open to**: Mid AI/LLM Engineer roles, RAG Architect positions, AI Consultant opportunities
 >
 > 🌍 **Location**: Remote-friendly | Chile | Colombia
 >
