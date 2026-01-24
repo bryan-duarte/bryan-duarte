@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/bryan-duarte">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://medium.com/@tu-usuario">
+  <a href="https://medium.com/@bryancjavier">
     <img src="https://img.shields.io/badge/Medium-Read%20Blog-000000?style=flat&logo=medium&logoColor=white" alt="Medium">
   </a>
 </p>
@@ -101,16 +101,19 @@ A real production-grade (yes, not a toy "AI TODO list app") news clustering and 
 **Tech Stack**: LangChain | LangGraph | PgVector | Multi-Provider AI | Python | Next.js
 
 **Key Features and Technical Challenges Solved**
-- Multi-provider custom AI implementation with failover
-- AI-powered image generation
-- Production rate limiting and token optimization
-- LangChain Agents and LangGraph workflows
-- Custom tools to agents
-- PgVector for embeddings and semantic search (RAG)
-- Generator <-> Validator agents pattern for quality assurance
-- LangSmith/LangFuse monitoring and evaluation
-- Prompt optimization with systematic eval sets
-- Guaranteed structured responses
+
+| Categoría | Implementación Técnica |
+| :--- | :--- |
+| **Arquitectura AI** | Multi-provider custom AI implementation with failover |
+| **Generación** | AI-powered image generation |
+| **Optimización** | Production rate limiting and token optimization |
+| **Orquestación** | LangChain Agents and LangGraph workflows |
+| **Extensibilidad** | Custom tools to agents |
+| **RAG** | PgVector for embeddings and semantic search |
+| **QA & Agentes** | Generator ↔ Validator agents pattern for quality assurance |
+| **Observabilidad** | LangSmith / LangFuse monitoring and evaluation |
+| **Evaluación** | Prompt optimization with systematic eval sets |
+| **Estructura** | Guaranteed structured responses |
 
 ---
 
