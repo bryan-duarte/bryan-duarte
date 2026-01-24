@@ -77,7 +77,7 @@
 ![Database Design](https://img.shields.io/badge/DB_Design-Optimization-blue?style=flat)
 
 ### 🔧 Other tools
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat) (Dear claudio)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat)
 ![n8n](https://img.shields.io/badge/n8n-Self--Hosted-FF6C37?style=flat&logo=n8n&logoColor=white)
 ![AI-Powered Dev](https://img.shields.io/badge/AI--Powered_Dev-Productivity-brightgreen?style=flat)
 
