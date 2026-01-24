@@ -35,6 +35,17 @@
 
 ---
 
+### 📝 Last posts 
+
+[Moving from AI config hell to a system that actually makes sense
+](https://bryancjavier.medium.com/moving-from-ai-config-hell-to-a-system-that-actually-makes-sense-b5ff60f6e5ec)
+
+[The Broke Developer’s Guide to Running Claude Code with GPT-5/GPT OSS
+](https://bryancjavier.medium.com/the-broke-developers-guide-to-running-claude-code-with-gpt-5-gpt-oss-4c3ab3483016)
+
+
+---
+
 ## 🛠️ Technical Expertise
 
 ### 🤖 AI/LLM Engineering
