@@ -68,7 +68,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat)
 
 ### 🗄️ Data & Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -78,6 +77,7 @@
 ![Database Design](https://img.shields.io/badge/DB_Design-Optimization-blue?style=flat)
 
 ### 🔧 Other tools
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat) (Dear claudio)
 ![n8n](https://img.shields.io/badge/n8n-Self--Hosted-FF6C37?style=flat&logo=n8n&logoColor=white)
 ![AI-Powered Dev](https://img.shields.io/badge/AI--Powered_Dev-Productivity-brightgreen?style=flat)
 
