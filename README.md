@@ -25,10 +25,6 @@
   </ul>
 </div>
 
-> Building production-grade AI systems with agents, LLMs, and cloud-native architecture. Transforming complex business challenges into scalable, intelligent solutions.
-
----
-
 ## 👤 About Me
 
 **Tech Lead** with 3+ yrs of experience driving technical roadmaps and +2 yrs delivering production AI solutions. I bridge the gap between cutting-edge AI research and real-world applications, specializing in **Python**, **LLM agents**, **RAG architectures**, and **cloud infrastructure**.
