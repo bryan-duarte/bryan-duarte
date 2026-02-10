@@ -37,6 +37,9 @@
 
 ### 📝 Last posts 
 
+[How to Build AI Projects That Don’t Break (And Don’t Break your Bank account)
+](https://medium.com/@bryancjavier/how-to-build-ai-projects-that-dont-break-and-don-t-break-your-bank-account-b4174eced723)
+
 [Moving from AI config hell to a system that actually makes sense
 ](https://bryancjavier.medium.com/moving-from-ai-config-hell-to-a-system-that-actually-makes-sense-b5ff60f6e5ec)
 
