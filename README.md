@@ -31,7 +31,7 @@
 
 ## 👤 About Me
 
-**Tech Lead** with 3+ yrs of experience driving technical roadmaps and +2 yrs delivering production AI solutions. I bridge the gap between cutting-edge AI research and real-world applications, specializing in **LLM agents**, **RAG architectures**, and **cloud infrastructure**.
+**Tech Lead** with 3+ yrs of experience driving technical roadmaps and +2 yrs delivering production AI solutions. I bridge the gap between cutting-edge AI research and real-world applications, specializing in **Python** **LLM agents**, **RAG architectures**, and **cloud infrastructure**.
 
 ---
 
