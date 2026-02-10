@@ -141,8 +141,6 @@ I'm always interested in discussing AI engineering, agent architectures, RAG sys
 
 <div align="center">
 
-**"Building the future of production AI systems, one agent at a time."**
-
 *Built with colombian coffe ☕ , chilean completos 🌭 and AI-powered tools*
 </div>
 
