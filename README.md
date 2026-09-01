@@ -21,13 +21,16 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">AWS Certified Cloud Practitioner | AI/LLM Solutions Developer | panopticoai.com</h3></summary>
+    <summary><h3 style="display: inline-block">AWS Certified Cloud Practitioner | AI/LLM Solutions Engineer | panopticoai.com</h3></summary>
   </ul>
 </div>
 
 ## 👤 About Me
 
-**Tech Lead** with 3+ yrs of experience driving technical roadmaps and +2 yrs delivering production AI solutions. I bridge the gap between cutting-edge AI research and real-world applications, specializing in **Python**, **LLM agents**, **RAG architectures**, and **cloud infrastructure**.
+**Tech Lead** with 3+ yrs of experience driving technical roadmaps
++2 yrs delivering production AI solutions. 
+
+Specialized in **Python**, **LLM agentic apps** **Voice Agents** **Agentic Architectures**, **RAG architectures**, and **AWS Cloud infrastructure**.
 
 ---
 
