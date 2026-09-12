@@ -21,13 +21,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">AWS Certified Cloud Practitioner | AI/LLM Solutions Engineer | panopticoai.com</h3></summary>
+    <summary><h3 style="display: inline-block">WS Certified AI Practitioner & Cloud Practitioner  | AI/LLM Solutions Engineer | panopticoai.com</h3></summary>
   </ul>
 </div>
 
 ## 👤 About Me
 
-**Tech Lead** with 3+ yrs of experience driving technical roadmaps
+**AI Engineer** with 3+ yrs of experience driving technical roadmaps as Tech Lead
 +2 yrs delivering production AI solutions. 
 
 Specialized in **Python**, **LLM agentic apps** **Voice Agents** **Agentic Architectures**, **RAG architectures**, and **AWS Cloud infrastructure**.
@@ -35,6 +35,9 @@ Specialized in **Python**, **LLM agentic apps** **Voice Agents** **Agentic Archi
 ---
 
 ### 📝 Last posts 
+
+[Why every AI engineer eventually crawls back to AWS, Azure, Vertex)
+](https://bryancjavier.medium.com/why-every-ai-engineer-eventually-crawls-back-to-aws-azure-vertex-3d14e83a39dc)
 
 [How to Build AI Projects That Don’t Break (And Don’t Break your Bank account)
 ](https://medium.com/@bryancjavier/how-to-build-ai-projects-that-dont-break-and-don-t-break-your-bank-account-b4174eced723)
