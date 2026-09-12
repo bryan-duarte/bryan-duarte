@@ -27,7 +27,8 @@
 
 ## 👤 About Me
 
-**AI Engineer** with 3+ yrs of experience driving technical roadmaps as Tech Lead
+**AI Engineer** with +5 YOE
++3 yrs of experience driving technical roadmaps as Tech Lead
 +2 yrs delivering production AI solutions. 
 
 Specialized in **Python**, **LLM agentic apps** **Voice Agents** **Agentic Architectures**, **RAG architectures**, and **AWS Cloud infrastructure**.
