@@ -1,7 +1,7 @@
 <!--
   Senior AI/LLM Engineer & Innovation Leader
   Specialized in Production-Grade AI Agents, RAG Systems, and Cloud Architecture
-  Last Updated: January 2025
+  Last Updated: September 2026
 -->
 
 <div id="user-content-toc">
@@ -21,34 +21,27 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">WS Certified AI Practitioner & Cloud Practitioner  | AI/LLM Solutions Engineer | panopticoai.com</h3></summary>
+    <summary><h3 style="display: inline-block">AWS Certified AI Practitioner & Cloud Practitioner | AI/LLM Solutions Engineer | panopticoai.com</h3></summary>
   </ul>
 </div>
 
 ## 👤 About Me
 
 **AI Engineer** with +5 YOE
-+3 yrs of experience driving technical roadmaps as Tech Lead
-+2 yrs delivering production AI solutions. 
 
-Specialized in **Python**, **LLM agentic apps** **Voice Agents** **Agentic Architectures**, **RAG architectures**, and **AWS Cloud infrastructure**.
++3 yrs of experience driving technical roadmaps as Tech Lead
++2 yrs delivering production AI solutions.
+
+Specialized in **Python**, **LLM agentic apps**, **voice agents**, **agentic architectures**, **RAG**, and **AWS cloud infrastructure**.
 
 ---
 
-### 📝 Last posts 
+### 📝 Last posts
 
-[Why every AI engineer eventually crawls back to AWS, Azure, Vertex)
-](https://bryancjavier.medium.com/why-every-ai-engineer-eventually-crawls-back-to-aws-azure-vertex-3d14e83a39dc)
-
-[How to Build AI Projects That Don’t Break (And Don’t Break your Bank account)
-](https://medium.com/@bryancjavier/how-to-build-ai-projects-that-dont-break-and-don-t-break-your-bank-account-b4174eced723)
-
-[Moving from AI config hell to a system that actually makes sense
-](https://bryancjavier.medium.com/moving-from-ai-config-hell-to-a-system-that-actually-makes-sense-b5ff60f6e5ec)
-
-[The Broke Developer’s Guide to Running Claude Code with GPT-5/GPT OSS
-](https://bryancjavier.medium.com/the-broke-developers-guide-to-running-claude-code-with-gpt-5-gpt-oss-4c3ab3483016)
-
+- [Why every AI engineer eventually crawls back to AWS, Azure, Vertex](https://bryancjavier.medium.com/why-every-ai-engineer-eventually-crawls-back-to-aws-azure-vertex-3d14e83a39dc)
+- [How to Build AI Projects That Don't Break (And Don't Break Your Bank Account)](https://medium.com/@bryancjavier/how-to-build-ai-projects-that-dont-break-and-don-t-break-your-bank-account-b4174eced723)
+- [Moving from AI config hell to a system that actually makes sense](https://bryancjavier.medium.com/moving-from-ai-config-hell-to-a-system-that-actually-makes-sense-b5ff60f6e5ec)
+- [The Broke Developer's Guide to Running Claude Code with GPT-5/GPT OSS](https://bryancjavier.medium.com/the-broke-developers-guide-to-running-claude-code-with-gpt-5-gpt-oss-4c3ab3483016)
 
 ---
 
@@ -58,25 +51,24 @@ Specialized in **Python**, **LLM agentic apps** **Voice Agents** **Agentic Archi
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C94?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-6A9BF8?style=flat)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F61?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-FFD700?style=flat&logoColor=black)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-FFD700?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented-orange?style=flat)
 ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-0052CC?style=flat)
 ![Semantic Search](https://img.shields.io/badge/Semantic_Search-4DB33D?style=flat)
 ![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=flat&logo=langchain)
 ![LangFuse](https://img.shields.io/badge/LangFuse-5B21B6?style=flat)
-![Token Optimization](https://img.shields.io/badge/Token_Optimization-7B61FF?style=flat)
+![DeepAgents](https://img.shields.io/badge/LangChain_DeepAgents-1C3C3C?style=flat)
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS Certified](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FF4F4B?style=flat&logo=serverless&logoColor=white)
 ![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![IaC](https://img.shields.io/badge/Infrastructure_as_Code-7B42BC?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-success?style=flat)
-![Infrastructure as Code](https://img.shields.io/badge/IaC-Blue?style=flat)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-lightgrey?style=flat)
 
 ### 💻 Full-Stack Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -90,27 +82,25 @@ Specialized in **Python**, **LLM agentic apps** **Voice Agents** **Agentic Archi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![PgVector](https://img.shields.io/badge/PgVector-009639?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-Semantic-green?style=flat)
-![Database Design](https://img.shields.io/badge/DB_Design-Optimization-blue?style=flat)
 
 ### 🔧 Other tools
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat)
 ![n8n](https://img.shields.io/badge/n8n-Self--Hosted-FF6C37?style=flat&logo=n8n&logoColor=white)
-![AI-Powered Dev](https://img.shields.io/badge/AI--Powered_Dev-Productivity-brightgreen?style=flat)
 
 ---
 
 ## 🎯 What I'm Working On
 
-- 🤖 **Own Side Project**: [Panóptico AI](https://panopticoai.com) – News clustering and analysis using embeddings and AI workflows
-- 📚 **Job**: FirstJob - Literally my current job jaja
+- 🤖 **Side project**: [Panóptico AI](https://panopticoai.com) — news clustering and analysis using embeddings and AI workflows
+- 💼 **My job**: FirstJob — building production AI solutions
 
 ---
 
-<img width="269" height="53" alt="image" src="https://github.com/user-attachments/assets/29da9019-d782-4f27-b991-f943f95a5dbb" />
+<div align="center">
 
+<img width="269" alt="Panóptico AI logo" src="https://github.com/user-attachments/assets/29da9019-d782-4f27-b991-f943f95a5dbb" />
 
-### 🗞️ Panóptico AI – News Intelligence Platform
+### 🗞️ Panóptico AI — News Intelligence Platform
 **[panopticoai.com](https://panopticoai.com) | Side Project**
 
 A real production-grade (yes, not a toy "AI TODO list app") news clustering and analysis system for Chile using embeddings, AI agents, and advanced workflows.
@@ -119,18 +109,20 @@ A real production-grade (yes, not a toy "AI TODO list app") news clustering and 
 
 **Key Features and Technical Challenges Solved**
 
-| Categoría | Implementación Técnica |
+| Category | Technical Implementation |
 | :--- | :--- |
-| **Arquitectura AI** | Multi-provider custom AI implementation with failover |
-| **Generación** | AI-powered image generation |
-| **Optimización** | Production rate limiting and token optimization |
-| **Orquestación** | LangChain Agents and LangGraph workflows |
-| **Extensibilidad** | Custom tools to agents |
+| **AI Architecture** | Multi-provider custom AI implementation with failover |
+| **Generation** | AI-powered image generation |
+| **Optimization** | Production rate limiting and token optimization |
+| **Orchestration** | LangChain Agents and LangGraph workflows |
+| **Extensibility** | Custom tools for agents |
 | **RAG** | PgVector for embeddings and semantic search |
-| **QA & Agentes** | Generator ↔ Validator agents pattern for quality assurance |
-| **Observabilidad** | LangSmith / LangFuse monitoring and evaluation |
-| **Evaluación** | Prompt optimization with systematic eval sets |
-| **Estructura** | Guaranteed structured responses |
+| **QA & Agents** | Generator ↔ Validator agents pattern for quality assurance |
+| **Observability** | LangSmith / LangFuse monitoring and evaluation |
+| **Evaluation** | Prompt optimization with systematic eval sets |
+| **Structure** | Guaranteed structured responses |
+
+</div>
 
 ---
 
@@ -148,7 +140,6 @@ I'm always interested in discussing AI engineering, agent architectures, RAG sys
 
 <div align="center">
 
-*Built with colombian coffe ☕ , chilean completos 🌭 and AI-powered tools*
+*Built with colombian coffee ☕, chilean completos 🌭 and AI-powered tools*
+
 </div>
-
-
