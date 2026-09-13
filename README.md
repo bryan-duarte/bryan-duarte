@@ -51,6 +51,8 @@ Specialized in **Python**, **LLM agentic apps**, **voice agents**, **agentic arc
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C94?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-6A9BF8?style=flat)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F61?style=flat)
+![Voice Agents](https://img.shields.io/badge/Voice_Agents-FF6F61?style=flat)
+![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=flat&logo=livekit&logoColor=white)
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-FFD700?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented-orange?style=flat)
 ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-0052CC?style=flat)
