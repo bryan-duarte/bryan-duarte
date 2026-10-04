@@ -18,8 +18,10 @@
     <img src="https://img.shields.io/badge/Medium-Read%20Blog-000000?style=flat&logo=medium&logoColor=white" alt="Medium">
   </a>
 </p>
-<div id="user-content-toc">
-    <a href="https://www.bryanjavier.com/">www.bryanjavier.com/</a>
+<div id="user-website">
+  <p align="center">
+    <a href="https://www.bryanjavier.com">www.bryanjavier.com</a>
+  </p>
 </div>
 
 <div id="user-content-toc">
