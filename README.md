@@ -20,7 +20,7 @@
 </p>
 <div id="user-website">
   <p align="center">
-    <a href="https://www.bryanjavier.com">www.bryanjavier.com</a>
+    <a href="bryanjavier.com">bryanjavier.com</a>
   </p>
 </div>
 
