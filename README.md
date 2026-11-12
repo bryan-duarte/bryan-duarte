@@ -11,12 +11,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <img alt="5+ years of software engineering. 3+ years as a Tech Lead, driving technical roadmaps. 2+ years delivering production-grade AI. AWS certified twice: AI Practitioner and Cloud Practitioner." src="assets/stats-light.svg" width="100%">
-</picture>
+</picture><br>
 
 <p align="center">
-<a href="https://linkedin.com/in/bryan-duarte"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-linkedin-dark.svg"><img alt="Connect on LinkedIn: linkedin.com/in/bryan-duarte" src="assets/button-linkedin-light.svg" height="44"></picture></a>&nbsp;
-<a href="https://medium.com/@bryancjavier"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-medium-dark.svg"><img alt="Read on Medium: medium.com/@bryancjavier" src="assets/button-medium-light.svg" height="44"></picture></a>&nbsp;
-<a href="https://www.bryanjavier.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-portfolio-dark.svg"><img alt="Portfolio: bryanjavier.com" src="assets/button-portfolio-light.svg" height="44"></picture></a>
+<a href="https://linkedin.com/in/bryan-duarte"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-linkedin-dark.svg"><img alt="Connect on LinkedIn: linkedin.com/in/bryan-duarte" src="assets/button-linkedin-light.svg" height="38"></picture></a>&nbsp;
+<a href="https://medium.com/@bryancjavier"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-medium-dark.svg"><img alt="Read on Medium: medium.com/@bryancjavier" src="assets/button-medium-light.svg" height="38"></picture></a>&nbsp;
+<a href="https://www.bryanjavier.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-portfolio-dark.svg"><img alt="Portfolio: bryanjavier.com" src="assets/button-portfolio-light.svg" height="38"></picture></a>
 </p>
 
 ## <img src="assets/icons/zone-coral.svg" width="14" height="14" alt=""> About me
