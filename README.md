@@ -14,10 +14,9 @@
 </picture>
 
 <p align="center">
-<a href="https://linkedin.com/in/bryan-duarte"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-linkedin-dark.svg"><img alt="Connect with me: linkedin.com/in/bryan-duarte" src="assets/tile-linkedin-light.svg" width="24.4%"></picture></a>
-<a href="https://medium.com/@bryancjavier"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-medium-dark.svg"><img alt="Read my posts: medium.com/@bryancjavier" src="assets/tile-medium-light.svg" width="24.4%"></picture></a>
-<a href="https://www.bryanjavier.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-portfolio-dark.svg"><img alt="See my work: bryanjavier.com" src="assets/tile-portfolio-light.svg" width="24.4%"></picture></a>
-<a href="https://www.bryanjavier.com/resume"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-resume-dark.svg"><img alt="Get my resume: bryanjavier.com/resume" src="assets/tile-resume-light.svg" width="24.4%"></picture></a>
+<a href="https://linkedin.com/in/bryan-duarte"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-linkedin-dark.svg"><img alt="Connect on LinkedIn: linkedin.com/in/bryan-duarte" src="assets/button-linkedin-light.svg" height="44"></picture></a>&nbsp;
+<a href="https://medium.com/@bryancjavier"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-medium-dark.svg"><img alt="Read on Medium: medium.com/@bryancjavier" src="assets/button-medium-light.svg" height="44"></picture></a>&nbsp;
+<a href="https://www.bryanjavier.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-portfolio-dark.svg"><img alt="Portfolio: bryanjavier.com" src="assets/button-portfolio-light.svg" height="44"></picture></a>
 </p>
 
 ## <img src="assets/icons/zone-coral.svg" width="14" height="14" alt=""> About me
