@@ -38,95 +38,48 @@ All posts: [medium.com/@bryancjavier](https://medium.com/@bryancjavier)
 
 ## <img src="assets/icons/zone-teal.svg" width="14" height="14" alt=""> Products I build
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/mark-panoptico-dark.svg"><img alt="" src="assets/mark-panoptico-light.svg" width="48"></picture>
-
-### [Panóptico AI](https://panopticoai.com)
-
-News intelligence platform. A real production-grade (yes, not a toy "AI TODO list app") news clustering and analysis system for Chile, using embeddings, AI agents and advanced workflows. Agents sign in too, and use MCP to search a year of coverage.
-
-**Stack:** LangChain · LangGraph · PgVector · Multi-Provider AI · MCP · Python · Next.js
-
-</td>
-<td width="50%" valign="top">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/mark-cenini-dark.svg"><img alt="" src="assets/mark-cenini-light.svg" width="48"></picture>
-
-### [Cenini](https://cenini.app)
-
-MCP workshop for creative people. One MCP address gives Claude, ChatGPT, Gemini, Cursor and more your image providers on your own keys, style presets, reference boxes, memories and folders, with spend caps that stop a call before it goes over budget.
-
-**Stack:** MCP · MCP Apps · TypeScript · Image generation APIs
-
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://panopticoai.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/product-panoptico-dark.svg"><img alt="Panóptico AI, panopticoai.com. News intelligence platform. A real production-grade (yes, not a toy "AI TODO list app") news clustering and analysis system for Chile, using embeddings, AI agents and advanced workflows. Agents sign in too, and use MCP to search a year of coverage. Stack: LangChain, LangGraph, PgVector, Multi-Provider AI, MCP, Python, Next.js." src="assets/product-panoptico-light.svg" width="49.4%"></picture></a>
+<a href="https://cenini.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/product-cenini-dark.svg"><img alt="Cenini, cenini.app. MCP workshop for creative people. One MCP address gives Claude, ChatGPT, Gemini, Cursor and more your image providers on your own keys, style presets, reference boxes, memories and folders, with spend caps that stop a call before it goes over budget. Stack: MCP, MCP Apps, TypeScript, Image generation APIs." src="assets/product-cenini-light.svg" width="49.4%"></picture></a>
+</p>
 
 <details>
 <summary><b>Panóptico AI: key features and technical challenges solved</b></summary>
 
-| Category | Technical implementation |
-| :--- | :--- |
-| **AI Architecture** | Multi-provider custom AI implementation with failover |
-| **Generation** | AI-powered image generation |
-| **Optimization** | Production rate limiting and token optimization |
-| **Orchestration** | LangChain Agents and LangGraph workflows |
-| **Extensibility** | Custom tools for agents |
-| **RAG** | PgVector for embeddings and semantic search |
-| **QA & Agents** | Generator and Validator agents pattern for quality assurance |
-| **Observability** | LangSmith and LangFuse monitoring and evaluation |
-| **Evaluation** | Prompt optimization with systematic eval sets |
-| **Structure** | Guaranteed structured responses |
+- **AI Architecture:** Multi-provider custom AI implementation with failover.
+- **Generation:** AI-powered image generation.
+- **Optimization:** Production rate limiting and token optimization.
+- **Orchestration:** LangChain Agents and LangGraph workflows.
+- **Extensibility:** Custom tools for agents.
+- **RAG:** PgVector for embeddings and semantic search.
+- **QA & Agents:** Generator and Validator agents pattern for quality assurance.
+- **Observability:** LangSmith and LangFuse monitoring and evaluation.
+- **Evaluation:** Prompt optimization with systematic eval sets.
+- **Structure:** Guaranteed structured responses.
 
 </details>
 
 ## <img src="assets/icons/zone-yellow.svg" width="14" height="14" alt=""> Technical expertise
 
-| Area | Stack |
-| :-- | :-- |
-| <img src="assets/icons/zone-coral.svg" width="14" height="14" alt=""> **AI Engineering & LLM Ops** | <img src="assets/icons/langchain.svg" width="16" height="16" alt=""> LangChain · <img src="assets/icons/glyph.svg" width="16" height="16" alt=""> LangGraph · <img src="assets/icons/langchain.svg" width="16" height="16" alt=""> LangChain DeepAgents · <img src="assets/icons/glyph.svg" width="16" height="16" alt=""> RAG · <img src="assets/icons/glyph.svg" width="16" height="16" alt=""> Vector Embeddings · <img src="assets/icons/glyph.svg" width="16" height="16" alt=""> Semantic Search · <img src="assets/icons/glyph.svg" width="16" height="16" alt=""> Voice Agents · <img src="assets/icons/glyph.svg" width="16" height="16" alt=""> LiveKit · <img src="assets/icons/langchain.svg" width="16" height="16" alt=""> LangSmith · <img src="assets/icons/glyph.svg" width="16" height="16" alt=""> LangFuse |
-| <img src="assets/icons/zone-lavender.svg" width="14" height="14" alt=""> **Agentic Development** | <img src="assets/icons/glyph.svg" width="16" height="16" alt=""> AI Agents · <img src="assets/icons/glyph.svg" width="16" height="16" alt=""> Multi-Agent Systems · <img src="assets/icons/anthropic.svg" width="16" height="16" alt=""> MCP · <img src="assets/icons/anthropic.svg" width="16" height="16" alt=""> MCP Apps **(new)** · <img src="assets/icons/claude.svg" width="16" height="16" alt=""> Claude Code · <img src="assets/icons/n8n.svg" width="16" height="16" alt=""> n8n (self-hosted) |
-| <img src="assets/icons/zone-teal.svg" width="14" height="14" alt=""> **Cloud & Data** | <img src="assets/icons/amazonwebservices.svg" width="16" height="16" alt=""> AWS · <img src="assets/icons/amazonwebservices.svg" width="16" height="16" alt=""> AWS Bedrock · <img src="assets/icons/awslambda.svg" width="16" height="16" alt=""> AWS Lambda · <img src="assets/icons/serverless.svg" width="16" height="16" alt=""> Serverless · <img src="assets/icons/terraform.svg" width="16" height="16" alt=""> Terraform (IaC) · <img src="assets/icons/docker.svg" width="16" height="16" alt=""> Docker · <img src="assets/icons/githubactions.svg" width="16" height="16" alt=""> GitHub Actions · <img src="assets/icons/postgresql.svg" width="16" height="16" alt=""> PostgreSQL · <img src="assets/icons/postgresql.svg" width="16" height="16" alt=""> PgVector · <img src="assets/icons/redis.svg" width="16" height="16" alt=""> Redis |
-| <img src="assets/icons/zone-yellow.svg" width="14" height="14" alt=""> **Full-Stack** | <img src="assets/icons/python.svg" width="16" height="16" alt=""> Python · <img src="assets/icons/typescript.svg" width="16" height="16" alt=""> TypeScript · <img src="assets/icons/javascript.svg" width="16" height="16" alt=""> JavaScript · <img src="assets/icons/nodedotjs.svg" width="16" height="16" alt=""> Node.js · <img src="assets/icons/nextdotjs.svg" width="16" height="16" alt=""> Next.js · <img src="assets/icons/react.svg" width="16" height="16" alt=""> React |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/expertise-dark.svg"><img alt="Technical expertise. 01 AI Engineering & LLM Ops: LangChain, LangGraph, Deep Agents, RAG Architectures, Prompt Engineering, Voice Agents, LiveKit, Langfuse, LLM Cost Optimization, Pydantic AI, MCP Servers. 02 Agentic Development: MCP, MCP Apps, Claude Code, OpenCode, Spec Driven Development, Claude Agent SDK, Cloud Agents. 03 Cloud & Data Infra: AWS Ecosystem, Bedrock, Docker, CI/CD Pipelines, Terraform, PostgreSQL, pgvector, Chroma DB, Pinecone, Redis. 04 Software Engineering: Advanced Python, Backend, FastAPI, TypeScript, Node.js, Next.js." src="assets/expertise-light.svg" width="100%"></picture>
+
+<details>
+<summary>The same stack as text</summary>
+
+- **01 AI Engineering & LLM Ops:** LangChain, LangGraph, Deep Agents, RAG Architectures, Prompt Engineering, Voice Agents, LiveKit, Langfuse, LLM Cost Optimization, Pydantic AI, MCP Servers
+- **02 Agentic Development:** MCP, MCP Apps (new), Claude Code, OpenCode, Spec Driven Development, Claude Agent SDK, Cloud Agents
+- **03 Cloud & Data Infra:** AWS Ecosystem, Bedrock, Docker, CI/CD Pipelines, Terraform, PostgreSQL, pgvector, Chroma DB, Pinecone, Redis
+- **04 Software Engineering:** Advanced Python, Backend, FastAPI, TypeScript, Node.js, Next.js
+
+</details>
 
 ## <img src="assets/icons/zone-coral.svg" width="14" height="14" alt=""> Highlighted repositories
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<img src="assets/icons/repo.svg" width="16" height="16" alt=""> **[Herdwatch](https://github.com/bryan-duarte/herdwatch)**
-
-A Herdr mod: a btop-style monitor for the SSH hosts where your coding agents run. CPU, memory, agents, ports and worktrees.
-
-<img src="assets/icons/lang-javascript.svg" width="12" height="12" alt=""> JavaScript · Open source · Herdr mod
-
-</td>
-<td width="33%" valign="top">
-
-<img src="assets/icons/repo.svg" width="16" height="16" alt=""> **[Blinka Pay Agent](https://github.com/bryan-duarte/blinka-hackathon)**
-
-An agent that pays your bills inside the rules you set. Models read and explain; code decides whether money moves.
-
-<img src="assets/icons/lang-python.svg" width="12" height="12" alt=""> Python · 30x Hackathon · Blinka Challenge
-
-</td>
-<td width="33%" valign="top">
-
-<img src="assets/icons/repo.svg" width="16" height="16" alt=""> **[PII AI Tokenizer](https://github.com/bryan-duarte/PII-compliance-AI-workflow)**
-
-A FastAPI gateway that anonymizes PII with Amazon Bedrock Guardrails before the LLM sees it, then restores it in the streamed answer.
-
-<img src="assets/icons/lang-python.svg" width="12" height="12" alt=""> Python · MVP · FastAPI · Bedrock Guardrails
-
-</td>
-</tr>
-</table>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/strip-herdwatch-dark.svg"><img alt="Herdwatch views: overview, agents, ports, worktrees, procs" src="assets/strip-herdwatch-light.svg" width="100%"></picture>
+<p align="center">
+<a href="https://github.com/bryan-duarte/herdwatch"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-herdwatch-dark.svg"><img alt="Herdwatch, github.com/bryan-duarte/herdwatch. A Herdr mod: a btop-style monitor for the SSH hosts where your coding agents run. CPU, memory, agents, ports and worktrees. JavaScript. Open source · Herdr mod." src="assets/repo-herdwatch-light.svg" width="32.6%"></picture></a>
+<a href="https://github.com/bryan-duarte/blinka-hackathon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-blinka-dark.svg"><img alt="Blinka Pay Agent, github.com/bryan-duarte/blinka-hackathon. An agent that pays your bills inside the rules you set. Models read and explain; code decides whether money moves. Python. 30x Hackathon · Blinka Challenge." src="assets/repo-blinka-light.svg" width="32.6%"></picture></a>
+<a href="https://github.com/bryan-duarte/PII-compliance-AI-workflow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-tokenizer-dark.svg"><img alt="PII AI Tokenizer, github.com/bryan-duarte/PII-compliance-AI-workflow. A FastAPI gateway that anonymizes PII with Amazon Bedrock Guardrails before the LLM sees it, then restores it in the streamed answer. Python. MVP · FastAPI · Bedrock Guardrails." src="assets/repo-tokenizer-light.svg" width="32.6%"></picture></a>
+</p>
 
 ## <img src="assets/icons/zone-lavender.svg" width="14" height="14" alt=""> Let's connect
 
