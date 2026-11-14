@@ -23,7 +23,7 @@
 
 ## <img src="assets/icons/zone-coral.svg" width="14" height="14" alt=""> About me
 
-AWS Certified AI Practitioner & Cloud Practitioner · AI/LLM Solutions Engineer · [panopticoai.com](https://panopticoai.com)
+AWS Certified AI Practitioner & Cloud Practitioner · AI/LLM Solutions Engineer · [panopticoai.com](https://panopticoai.com) · [cenini.app](https://cenini.app/)
 
 **AI Engineer** with **5+ years** of experience: **3+ years** driving technical roadmaps as Tech Lead and **2+ years** delivering production AI solutions.
 
